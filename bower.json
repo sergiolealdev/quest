@@ -1,14 +1,13 @@
 {
-  "name": "footballlegends",
-  "description": "A simple CRUD app in AngularJS",
+  "name": "quest",
+  "description": "quest website implementation in angular and bootstrap",
   "main": "app.js",
   "authors": [
     "Sergio Leal"
   ],
   "license": "ISC",
   "keywords": [
-    "football",
-    "legends",
+    "quest",
     "angularJS"
   ],
   "moduleType": [],
@@ -22,7 +21,6 @@
   ],
   "dependencies": {
     "angular-ui-mask": "~1.6.0",
-    "angular-mocks": "~1.4.7",
     "angular-resource": "~1.4.7",
     "angular-ui-router": "~0.2.15",
     "bootstrap": "~3.3.5",
